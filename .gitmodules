@@ -1,0 +1,6 @@
+[submodule "TwoStreamCNN"]
+	path = TwoStreamCNN
+	url = https://github.com/dracarys983/TwoStreamCNN.git
+[submodule "SingleStreamCNN"]
+	path = SingleStreamCNN
+	url = https://github.com/dracarys983/SingleStreamCNN.git
