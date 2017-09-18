@@ -4,3 +4,6 @@
 [submodule "SingleStreamCNN"]
 	path = SingleStreamCNN
 	url = https://github.com/dracarys983/SingleStreamCNN.git
+[submodule "ReplicateCVPR"]
+	path = ReplicateCVPR
+	url = https://github.com/dracarys983/ReplicateCVPR.git
